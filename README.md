@@ -1,1 +1,1 @@
-# Here I will store all my hackerrank solutions. 
+Here I will store all my hackerrank solutions. 
