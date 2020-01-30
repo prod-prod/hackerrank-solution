@@ -1,5 +1,6 @@
-###**[Revising the Select Query-1](https://www.hackerrank.com/challenges/revising-the-select-query/problem)**
+# **[Revising the Select Query-1](https://www.hackerrank.com/challenges/revising-the-select-query/problem)**
 
+**Problem**
 
 Query all columns for all American cities in CITY with populations larger than 100,000. The CountryCode for America is USA.
 
