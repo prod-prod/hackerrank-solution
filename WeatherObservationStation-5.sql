@@ -1,5 +1,5 @@
 --Weather Observation Station 5 
---https://www.hackerrank.com/challenges/weather-observation-station-4
+--https://www.hackerrank.com/challenges/weather-observation-station-5
 
 select CITY,LENGTH(CITY) 
 from STATION 
